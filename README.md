@@ -1,12 +1,4 @@
 # 仿抖音个人中心下拉回弹
+ 
+https://user-images.githubusercontent.com/15246585/229682768-595627d6-dca5-4a3f-a0cf-e19aabbc796c.mp4
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://github.com/android-open-demo/DouYinMine/blob/master/demo.mp4)
-#1111111111
-https://github.com/android-open-demo/DouYinMine/blob/master/demo.mp4
-
-#1111111111
-https://www.@*-*@.com/watch?v=https://github.com/android-open-demo/DouYinMine/blob/master/demo.mp4
-
-
-#111
-[![Watch the video](https://img.@*-*@.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
